@@ -1,0 +1,9 @@
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\bin\Debug\The Billion Dollar Question.exe.config
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\bin\Debug\The Billion Dollar Question.exe
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\bin\Debug\The Billion Dollar Question.pdb
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\TheBillionDollarQuestion.csprojResolveAssemblyReference.cache
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\TheBillionDollarQuestion.UI.View.QuestionForm.resources
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\TheBillionDollarQuestion.Properties.Resources.resources
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\TheBillionDollarQuestion.csproj.GenerateResource.Cache
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\The Billion Dollar Question.exe
+d:\Projects\Code\Examples\CSharp\WinForms\MVP.TheBillionDollarQuestion\TheBillionDollarQuestion\obj\Debug\The Billion Dollar Question.pdb
