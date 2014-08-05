@@ -5,7 +5,7 @@ An MVP example using WinForms.
 
 ### Application Type ###
 
-* WinForms application.
+* WinForms application
 * MVP
 
 ### Dependencies ###
